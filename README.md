@@ -1,3 +1,3 @@
 This folder contains some coding resources for my Undergrad Econ Research Lab, where undergraduates can get some experience working with data. 
-The folder "cps_housing" contains material about my project using CPS and housing data to study the relationship of demographic changes and housing prices. We look in particular at household formation, and immigration.
+The folder "cps_housing" contains material about my project using CPS and housing data to study the relationship of demographic changes and housing prices. Data for this project is drawn from the IPUMS CPS database, as well as from public files at Zillow and Redfin. Analysis is conducted at the county and metro area level.
 The folder "finance_examples" contains material on basic financial analysis functions and portfolio optimization. I show examples of simple financial strategies such as momentum trading, evaluating seasonality, implementing carry trades, calculating implied volatility and other techniques.
